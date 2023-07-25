@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CryptoTracker.](https://cypto-project.vercel.app/)
 
-- 🌱 I’m currently learning **ReactJs.**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **ianandpandey99@gmail.com**
 
