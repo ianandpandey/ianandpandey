@@ -1,15 +1,32 @@
 <h1 align="center">Hi 👋, I'm Anand Pandey</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianandpandey&label=Profile%20views&color=0e75b6&style=flat" alt="ianandpandey" /> </p>
 
-- 🔭 I’m currently working on [CryptoTracker.](https://cypto-project.vercel.app/)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ianandpandey&label=Profile%20views&color=0e75b6&style=flat" alt="ianandpandey" />
+</p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🔭 I’m currently working on [CryptoTracker](https://cypto-project.vercel.app/), a comprehensive cryptocurrency tracking application.
+  
+- 🌱 I’m deepening my knowledge in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 
-- 📫 How to reach me **ianandpandey99@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.linkedin.com/in/ianandpandey/)
 
-- ⚡ Fun fact **I Think I am Funny 😅**
+- 💬 Ask me about **JavaScript, React, Node.js, and Blockchain Development**
+
+- 📫 Reach me at **ianandpandey99@gmail.com**
+
+- ⚡ Fun fact: I believe I have a great sense of humor 😅
+
+<p align="left">
+  <a href="https://linkedin.com/in/ianandpandey" target="_blank">
+    <img src="https://img.shields.io/badge/-Anand%20Pandey-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ianandpandey" target="_blank">
+    <img src="https://img.shields.io/github/followers/ianandpandey?label=Follow&style=social" alt="GitHub">
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
